@@ -17,6 +17,7 @@ void loop() {
 
     if (isOn == LOW)
     {
+        delay(5000);
         Serial.println("Server is OFF, sending digitalWrite");
         digitalWrite(outputPin, HIGH);
         delay(1000);
