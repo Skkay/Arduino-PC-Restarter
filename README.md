@@ -8,3 +8,7 @@ Reads the power LED on the motherboard to determine the status (ON or OFF) of th
 ## Schema
 ![schema](assets/schema.png)
 (draw.io file available [here](assets/schema.drawio) [`./assets/schema.drawio`])
+
+## Result
+![result](assets/result.jpg)
+(3D parts (STL and SolidWorks) are available [here](assets/3D) [`./assets/3D`])
